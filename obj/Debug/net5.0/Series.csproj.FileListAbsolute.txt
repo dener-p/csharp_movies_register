@@ -1,0 +1,16 @@
+D:\desenvolvimento\dotnet\Series\bin\Debug\net5.0\Series.exe
+D:\desenvolvimento\dotnet\Series\bin\Debug\net5.0\Series.deps.json
+D:\desenvolvimento\dotnet\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+D:\desenvolvimento\dotnet\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+D:\desenvolvimento\dotnet\Series\bin\Debug\net5.0\Series.dll
+D:\desenvolvimento\dotnet\Series\bin\Debug\net5.0\ref\Series.dll
+D:\desenvolvimento\dotnet\Series\bin\Debug\net5.0\Series.pdb
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\Series.csprojAssemblyReference.cache
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\Series.dll
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\ref\Series.dll
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\Series.pdb
+D:\desenvolvimento\dotnet\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
